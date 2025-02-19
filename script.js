@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function() {
         bagImg.classList.remove("tear");
         bagImg.style.display = "none";
         //bb3 src
-        babyImg.src = "/img/10.png";
+        babyImg.src = "10.png";
         babyImg.style.display = "block";
         babyImg.classList.add("sparkle");
         setTimeout(() => {
